@@ -97,7 +97,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 classification_project.ipynb: The main Python script with all the analysis.
 
-classififcation_project.py: The main Python script without analysis - raw code and comments
+classification_project.py: The main Python script without analysis - raw code and comments
 
 report.md: The final project report explaining the findings.
 
